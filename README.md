@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zelalem-12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Zelalem Enyew 
+- 👀 I’m interested in software development 
+- 🌱 I’m currently learning Algorithm and Data structure with python 
+- 💞️ I’m looking to collaborate on any software development 
+- 📫 Reach out to me via the email zelalem.antigegn12@gmail.com 
 
 <!---
 zelalem-12/zelalem-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
