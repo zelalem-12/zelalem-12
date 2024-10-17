@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zelalem Enyew 
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning Algorithm and Data structure with python 
+- 🌱 I’m currently learning Algorithms and Data structure with Golang 
 - 💞️ I’m looking to collaborate on any software development 
 - 📫 Reach out to me via the email zelalem.antigegn12@gmail.com 
 
