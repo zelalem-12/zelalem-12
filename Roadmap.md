@@ -1,10 +1,8 @@
-# 🚀 Backend Roadmap: Fintech · IAM · Blockchain (Web3)
-
-This is my personal roadmap to deepen my expertise as a **Senior Golang Backend Engineer**, focusing on:
+This is my roadmap to deepen my expertise as a **Senior Golang Backend Engineer**, focusing on:
 
 - ⚡ Fintech systems (payments, ledgers, reconciliation)
 - 🔐 Identity & Access Management (OIDC, OAuth2, SAML)
-- 🌐 Web3 & Decentralized Identity (DID, VC, smart contracts)
+- 🌐 Web3 & Decentralised Identity (DID, VC, smart contracts)
 - 🧱 Scalable backend systems (Hexagonal, CQRS, DDD)
 
 ---
